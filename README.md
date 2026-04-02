@@ -59,7 +59,7 @@ Budget Office of the Federation — Official Capital Budget Utilization Reports 
 ## Dashboard
 
 The interactive Power BI dashboard is available here:
-[View Dashboard]([INSERT POWER BI LINK HERE](https://app.powerbi.com/view?r=eyJrIjoiOGY3YzdjYjctZGEwZi00ZDBkLWI3NjMtNmExZDQyNjc0NDhkIiwidCI6Ijc2MTk0OTUzLTA1ZTMtNDZlNi1hMmI5LTQ3NmFkOGE5NGQ2ZSJ9))
+[View Dashboard]([INSERT POWER BI LINK HERE](https://app.powerbi.com/view?r=eyJrIjoiOGY3YzdjYjctZGEwZi00ZDBkLWI3NjMtNmExZDQyNjc0NDhkIiwidCI6Ijc2MTk0OTUzLTA1ZTMtNDZlNi1hMmI5LTQ3NmFkOGE5NGQ2ZSJ9)])
 
 ## Portfolio
 
